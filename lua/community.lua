@@ -11,4 +11,7 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
+
+  { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.prettier" },
 }
