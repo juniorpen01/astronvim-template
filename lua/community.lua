@@ -14,4 +14,12 @@ return {
 
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.prettier" },
+
+  { import = "astrocommunity.motion.nvim-surround" },
+
+  { import = "astrocommunity.pack.typescript" },
+
+  { import = "astrocommunity.pack.go" },
+
+  { import = "astrocommunity.pack.cpp" },
 }
