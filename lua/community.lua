@@ -22,4 +22,6 @@ return {
   { import = "astrocommunity.pack.go" },
 
   { import = "astrocommunity.pack.cpp" },
+
+  { import = "astrocommunity.pack.zig" },
 }
