@@ -26,4 +26,6 @@ return {
   { import = "astrocommunity.pack.zig" },
 
   { import = "astrocommunity.pack.python" },
+
+  { import = "astrocommunity.pack.rust" },
 }
